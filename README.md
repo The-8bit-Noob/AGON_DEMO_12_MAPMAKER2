@@ -7,7 +7,7 @@ Included is a set of sprites made in SPED (Agons sprite editor by robogeek42).<b
 <br>
 Links:<br>
 YouTube :<br>
-https://youtu.be/1-fgj9UJj9c
+https://youtu.be/1-fgj9UJj9c<br>
 Map Maker:<br>
 https://github.com/8BitVino/mapmaker/tree/main<br>
 Sped:<br>
